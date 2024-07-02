@@ -1,0 +1,33 @@
+﻿  main.cpp
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(543,46): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(548,51): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(554,45): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(561,37): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(563,95): warning C4267: 'argument': conversion from 'size_t' to 'const uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(563,56): warning C4267: 'argument': conversion from 'size_t' to 'const uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(151,58): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(162,59): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(168,58): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(262,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(267,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(354,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(359,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(370,121): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(375,121): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(380,115): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(385,115): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(390,118): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(395,118): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(402,86): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(402,68): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(407,12): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\main.cpp(413,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(424,50): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(424,40): warning C4267: 'initializing': conversion from 'size_t' to 'const uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(425,44): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(425,34): warning C4267: 'initializing': conversion from 'size_t' to 'const uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(427,73): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(427,38): warning C4267: 'initializing': conversion from 'size_t' to 'const uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(428,71): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\Esercizi Visual Studio\DirectX12AIV\DirectX12AIV\aiv.h(428,36): warning C4267: 'initializing': conversion from 'size_t' to 'const uint32_t', possible loss of data
+  DirectX12AIV.vcxproj -> D:\Esercizi Visual Studio\DirectX12AIV\x64\Debug\DirectX12AIV.exe
